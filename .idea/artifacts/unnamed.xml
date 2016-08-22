@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <properties id="ant-preprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Piate" />
+          <element id="javaee-facet-classes" facet="Piate/web/Web" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Piate/web/Web" />
+    </root>
+  </artifact>
+</component>
