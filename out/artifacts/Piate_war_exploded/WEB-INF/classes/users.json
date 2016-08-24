@@ -1,9 +1,0 @@
-[ { "_class"   : "com.bres.siodme.web.model.User",
-    "username" : "username",
-    "password" : "password",
-    "roles"    : "ROLE_USER" },
-
-  { "_class"   : "com.bres.siodme.web.model.User",
-    "username" : "ADMINISTRATOR",
-    "password" : "administration",
-    "roles"    : "ROLE_ADMIN" } ]

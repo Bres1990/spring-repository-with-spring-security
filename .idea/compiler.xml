@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="Piate" />
         <module name="Sagiton_4" />
         <module name="Sagiton_6" />
         <module name="Sagiton_7" />
@@ -35,6 +36,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Piate" target="1.8" />
       <module name="Sagiton_4" target="1.5" />
       <module name="Sagiton_5" target="1.7" />
       <module name="Sagiton_6" target="1.8" />
